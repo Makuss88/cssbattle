@@ -1,4 +1,4 @@
-![picture](img/1.png) 
+![picture](1.png) 
 
 <div></div>
 <style>
