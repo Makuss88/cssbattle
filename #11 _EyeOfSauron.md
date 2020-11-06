@@ -1,3 +1,5 @@
+ ![picture](img/11.png)
+ ```
 <div class='a'></div>
 <div class='b'></div>
 <div class='c'></div>
@@ -13,16 +15,16 @@
   }
  
  .a, .c {
-	  width: 60px;
+    width: 60px;
     height: 30px;
-  	border: 20px solid #ECA03D;
+    border: 20px solid #ECA03D;
     border-top: none;
     border-radius: 0 0 100px 100px;
  	  margin-top: 50px;
   }
   
   .c {
-	  border: 20px solid #ECA03D;
+    border: 20px solid #ECA03D;
     border-bottom: none;
     border-radius: 100px 100px 0 0;
     margin-bottom: 100px;

@@ -1,3 +1,5 @@
+ ![picture](img/5.png)
+ ```
 <div a> <div b> <div c>
 
 <style>
@@ -29,6 +31,5 @@
   div[c] {
     transform: translate(-60px,60px);
   }
-  
-  
 </style>
+```

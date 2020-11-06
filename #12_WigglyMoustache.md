@@ -1,3 +1,5 @@
+ ![picture](img/12.png)
+ ```
 <div class='a'> </div>
 <div class='c'> </div>
 <div class='b'> </div>
@@ -12,12 +14,12 @@
   }
   
   div {
-	  width: 60px;
+    width: 60px;
     height: 30px;
     border: 20px solid #D86F45;
     border-top:none;
     border-radius: 0 0 60px 060px;
-  	margin-top: 50px;
+    margin-top: 50px;
   }
   
   .a::before, .b::before {
@@ -39,6 +41,6 @@
     border: 20px solid #D86F45;
     border-bottom: none;
     border-radius: 60px 60px 0 0;  
-  	margin: 0 -20px 50px;
+    margin: 0 -20px 50px;
   }  
 </style>

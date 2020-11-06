@@ -1,3 +1,5 @@
+ ![picture](img/17.png)
+ ```
 <div class='c'></div>
 <div class='b'></div>
 <div class='c'></div>
@@ -16,7 +18,7 @@
   .c {
     width: 60px;
     height: 60px;
-	  box-shadow: 0 0 0 10px #E78481;
+    box-shadow: 0 0 0 10px #E78481;
     border-radius: 50%;
     background: #09042A;
   }

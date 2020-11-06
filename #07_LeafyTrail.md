@@ -1,4 +1,6 @@
-<div a> <div b> <div c>
+ ![picture](img/7.png)
+ ```
+ <div a> <div b> <div c>
 
 <style>
   body {

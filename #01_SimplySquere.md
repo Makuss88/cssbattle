@@ -1,5 +1,5 @@
 ![picture](img/1.png) 
-
+```
 <div></div>
 <style>
   * {
@@ -7,9 +7,9 @@
     margin: 0px;
   }
   div {
- 
     width: 200px;
     height: 200px;
     background: #b5e0ba;
   }
 </style>
+```
