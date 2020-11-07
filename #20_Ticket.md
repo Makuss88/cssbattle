@@ -1,12 +1,12 @@
 ![picture](img/20.png)
 ```
 <div class="a">
-	<div class="h b"></div>
-	<div class="h c"></div>
-	<div class="h d"></div>
-	<div class="h e"></div>
-	<div class="i f"></div>
-	<div class="i g"></div>
+  <div class="h b"></div>
+  <div class="h c"></div>
+  <div class="h d"></div>
+  <div class="h e"></div>
+  <div class="i f"></div>
+  <div class="i g"></div>
 </div>
 <style>
   body {
@@ -57,10 +57,10 @@
   }
 
   .f {
- 	 transform: translate(-30px, -50px); 
+ 	  transform: translate(-30px, -50px); 
   }
   
   .g {
- 	 transform: translate(-50px, 50px); 
+ 	  transform: translate(-50px, 50px); 
   }
 </style>
